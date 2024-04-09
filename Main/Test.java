@@ -1,3 +1,4 @@
 public class Test {
-    String name = penis;
+    String name = "penis";
+    System.print.out(name);
 }
